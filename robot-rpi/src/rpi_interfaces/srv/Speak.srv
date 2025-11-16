@@ -1,0 +1,4 @@
+string speech
+string lang
+---
+int32 status
